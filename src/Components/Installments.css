@@ -29,7 +29,7 @@
     font-weight: bold;
 }
 
-.gridInstallments {
+.gridInfo {
     grid-column-start: 2;
     display: flex;
     justify-content: center;
